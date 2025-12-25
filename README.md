@@ -1,7 +1,10 @@
 # IBM-Data-Science-Specialization
 
 <img width="512" height="205" alt="image" src="https://github.com/user-attachments/assets/7da645bb-ccd7-45db-9721-e976369ac9d6" />
-About this Professional Certificate
+
+
+**About this Professional Certificate**
+
 Data science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Professional Certificate from IBM will help anyone interested in pursuing a career in data science or machine learning develop career-relevant skills and experience.
 
 It’s a myth that to become a data scientist you need a Ph.D. Anyone with a passion for learning can take this Professional Certificate – no prior knowledge of computer science or programming languages required – and develop the skills, tools, and portfolio to have a competitive edge in the job market as an entry level data scientist.
