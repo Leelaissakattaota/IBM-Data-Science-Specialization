@@ -1,5 +1,4 @@
 # IBM-Data-Science-Specialization
-IBM Data Science Professional Certificate
 
 <img width="512" height="205" alt="image" src="https://github.com/user-attachments/assets/7da645bb-ccd7-45db-9721-e976369ac9d6" />
 About this Professional Certificate
